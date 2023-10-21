@@ -2,22 +2,19 @@ BEGIN:VCARD
 VERSION:3.0
 N:Malynowsky;Max;;;
 FN:Max Malynowsky
-ORG:Space4Good
+ORG:
 ADR;TYPE=WORK:
 TITLE:Software Engineer
 TEL;TYPE=CELL:+31681922442
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
-TEL;TYPE=MSG:
+TEL;TYPE=MSG:+12244449069
 EMAIL;TYPE=WORK:mail@maxmalynowsky.com
 URL;TYPE=Digital Business Card:
 URL:
-URL;TYPE=WhatsApp:+12244449069
-URL;TYPE=Signal:https://signal.me/#p/+12244449069
-URL;TYPE=Skype:skype:maxym.malynowsky?chat
-URL;TYPE=GitHub:https://github.com/maxmalynowsky
 URL;TYPE=LinkedIn:https://linkedin.com/in/maxym-malynowsky-2b4187223
+URL;TYPE=GitHub:https://github.com/maxmalynowsky
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100077245
+UID:EnBizCard-100099787
 END:VCARD
